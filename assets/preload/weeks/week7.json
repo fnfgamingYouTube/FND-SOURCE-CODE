@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["King", "fnf", [146, 113, 253]],
+		["Hell", "gnimag", [146, 113, 253]]
+	],
+
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekBackground": "room1",
+
+	"storyName": "King Of Cokes",
+	"weekBefore": "week6",
+	"weekName": "Week 7",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

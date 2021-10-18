@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="fnf_assets.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="fnf down0000" x="0" y="0" width="416" height="680"/>
+	<SubTexture name="fnf down0001" x="416" y="0" width="416" height="522" frameX="0" frameY="-151" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf down0002" x="832" y="0" width="416" height="522" frameX="0" frameY="-151" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf down0003" x="1248" y="0" width="416" height="522" frameX="0" frameY="-151" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf down0004" x="1664" y="0" width="416" height="522" frameX="0" frameY="-151" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf down0005" x="2080" y="0" width="416" height="522" frameX="0" frameY="-151" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf idle0000" x="2496" y="0" width="416" height="680"/>
+	<SubTexture name="fnf idle0001" x="2912" y="0" width="416" height="594" frameX="0" frameY="-82" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf idle0002" x="3328" y="0" width="416" height="514" frameX="0" frameY="-158" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf idle0003" x="0" y="680" width="416" height="423" frameX="0" frameY="-245" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf idle0004" x="416" y="680" width="416" height="514" frameX="0" frameY="-158" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf idle0005" x="832" y="680" width="416" height="680"/>
+	<SubTexture name="fnf left0000" x="1248" y="680" width="416" height="680"/>
+	<SubTexture name="fnf left0001" x="1664" y="680" width="224" height="680" frameX="-96" frameY="0" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf left0002" x="1888" y="680" width="34" height="680" frameX="-190" frameY="0" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf left0003" x="1922" y="680" width="242" height="680" frameX="-87" frameY="0" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf left0004" x="2164" y="680" width="375" height="680" frameX="-20" frameY="0" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf left0005" x="2539" y="680" width="416" height="680"/>
+	<SubTexture name="fnf right0000" x="2955" y="680" width="416" height="680" frameX="-22" frameY="0" frameWidth="614" frameHeight="680"/>
+	<SubTexture name="fnf right0001" x="3371" y="680" width="538" height="680" frameX="-5" frameY="0" frameWidth="614" frameHeight="680"/>
+	<SubTexture name="fnf right0002" x="0" y="1360" width="614" height="680"/>
+	<SubTexture name="fnf right0003" x="614" y="1360" width="614" height="680"/>
+	<SubTexture name="fnf right0004" x="1228" y="1360" width="538" height="680" frameX="-5" frameY="0" frameWidth="614" frameHeight="680"/>
+	<SubTexture name="fnf right0005" x="1766" y="1360" width="416" height="680" frameX="-22" frameY="0" frameWidth="614" frameHeight="680"/>
+	<SubTexture name="fnf up0000" x="2182" y="1360" width="416" height="522" frameX="0" frameY="-151" frameWidth="416" frameHeight="680"/>
+	<SubTexture name="fnf up0001" x="2598" y="1360" width="416" height="680"/>
+	<SubTexture name="fnf up0002" x="3014" y="1360" width="416" height="680"/>
+	<SubTexture name="fnf up0003" x="3430" y="1360" width="416" height="680"/>
+	<SubTexture name="fnf up0004" x="0" y="2040" width="416" height="680"/>
+	<SubTexture name="fnf up0005" x="416" y="2040" width="416" height="680"/>
+</TextureAtlas>
